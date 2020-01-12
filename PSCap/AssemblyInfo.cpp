@@ -12,9 +12,9 @@ using namespace System::Security::Permissions;
 // associated with an assembly.
 //
 [assembly:AssemblyTitleAttribute("PSCap")];
-[assembly:AssemblyDescriptionAttribute("")];
+[assembly:AssemblyDescriptionAttribute("Powershell module for statistical compitation on MS Netmon capture files")];
 [assembly:AssemblyConfigurationAttribute("")];
-[assembly:AssemblyCompanyAttribute("Jiri Formacek - MSFT")];
+[assembly:AssemblyCompanyAttribute("Jiri Formacek - GreyCorbel Solutions")];
 [assembly:AssemblyProductAttribute("PSCap")];
 [assembly:AssemblyCopyrightAttribute("")];
 [assembly:AssemblyTrademarkAttribute("")];
